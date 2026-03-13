@@ -45,5 +45,4 @@ It uses **LSB (Least Significant Bit) steganography** to embed hidden data in im
 
 ---
 
-## 📂 Project Structure
 
